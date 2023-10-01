@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bitdexv
-- 👀 I’m interested in <i>Full-Stack development, Web3 development, javascript</i>
-- 🌱 I’m currently learning ### A lot more things
+- 👀 I’m interested in <em>Full-Stack development, Web3 development, javascript</em>
+- 🌱 I’m currently learning <em> A lot more things </em>
 - 💞️ I’m looking to collaborate on ### My recent project
 - 📫 How to reach me ### bitdevelopers015@gmail.com
 
